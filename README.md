@@ -9,15 +9,15 @@
  üzerinde yapılan diyabet araştırması için kullanılan verilerdir. 768 gözlem ve 8 sayısal bağımsız değişkenden oluşmaktadır.
  Hedef değişken "outcome" olarak belirtilmiş olup; 1 diyabet test sonucunun pozitif oluşunu, 0 ise negatif oluşunu belirtmektedir.
 
- Pregnancies: Hamilelik sayısı
- Glucose: Glikoz
- BloodPressure: Kan basıncı (Diastolic(Küçük Tansiyon))
- SkinThickness: Cilt Kalınlığı
- Insulin: İnsülin.
- BMI: Beden kitle indeksi.
- DiabetesPedigreeFunction: Soyumuzdaki kişilere göre diyabet olma ihtimalimizi hesaplayan bir fonksiyon.
- Age: Yaş (yıl)
- Outcome: Kişinin diyabet olup olmadığı bilgisi. Hastalığa sahip (1) ya da değil (0)
+- Pregnancies: Hamilelik sayısı
+- Glucose: Glikoz
+- BloodPressure: Kan basıncı (Diastolic(Küçük Tansiyon))
+- SkinThickness: Cilt Kalınlığı
+- Insulin: İnsülin.
+- BMI: Beden kitle indeksi.
+- DiabetesPedigreeFunction: Soyumuzdaki kişilere göre diyabet olma ihtimalimizi hesaplayan bir fonksiyon.
+- Age: Yaş (yıl)
+- Outcome: Kişinin diyabet olup olmadığı bilgisi. Hastalığa sahip (1) ya da değil (0)
 
 
  GÖREV 1: KEŞİFCİ VERİ ANALİZİ
